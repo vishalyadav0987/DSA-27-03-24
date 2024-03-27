@@ -16,7 +16,7 @@ Welcome to our repository filled with an array of challenging Data Structures an
 ## Getting Started:
 
 1. **Clone the Repository:**
-git clone https://github.com/vishalyadav0987/DSA-27-3-2024.git
+git clone https://github.com/vishalyadav0987/DSA-27-03-2024.git
 
 2. **Embark on the Adventure:**
 - Dive into the challenge directory to discover an array of mind-bending problems waiting to be conquered.
