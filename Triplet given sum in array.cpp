@@ -8,7 +8,7 @@ class Solution
 public:
     // Function to find if there exists a triplet in the
     // array A[] which sums up to X.
-    bool find3Numbers(int arr[], int n, int X)
+    bool find3Numbers(int arr[], int n, int target)
     {
         // Your Code Here
         sort(arr, arr + n);
@@ -20,11 +20,11 @@ public:
             while (j < k)
             {
                 int sum = arr[i] + arr[j] + arr[k];
-                if (sum == X)
+                if (sum ==target)
                 {
                     return true;
                 }
-                else if (sum < X)
+                else if (sum < target)
                 {
                     j++;
                 }
