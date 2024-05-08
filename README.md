@@ -1,5 +1,5 @@
 # DSA-27-03-24
-# Welcome to the Ultimate DSA Challenge Repository! 🏆
+# Welcome to the Ultimate DSA Challenge Repository! 🏆🏆
 
 Welcome to our repository filled with an array of challenging Data Structures and Algorithms (DSA) problems. Here, you'll embark on a thrilling journey to sharpen your problem-solving skills and deepen your understanding of core algorithms.
 
