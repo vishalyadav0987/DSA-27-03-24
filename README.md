@@ -56,7 +56,7 @@ A heartfelt appreciation to all adventurers who contribute to the enrichment of 
 
 Are you ready to embark on this epic DSA adventure? Dive into the challenges, overcome obstacles, and emerge as a DSA champion!
 
-Happy coding, brave adventurers! 🌟💥
+Happy coding, brave adventurers! 🌟💥💥
 
 **- The DSA Challenge Guild** ⚔️
 
