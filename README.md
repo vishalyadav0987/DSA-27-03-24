@@ -58,5 +58,5 @@ Are you ready to embark on this epic DSA adventure? Dive into the challenges, ov
 
 Happy coding, brave adventurers! 🌟💥💥
 
-**- The DSA Challenge Guild** ⚔️
+**- The DSA Challenge Guild** ⚔️🤺
 
