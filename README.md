@@ -3,7 +3,7 @@
 
 Welcome to our repository filled with an array of challenging Data Structures and Algorithms (DSA) problems. Here, you'll embark on a thrilling journey to sharpen your problem-solving skills and deepen your understanding of core algorithms.
 
-## 🚀 Challenge Overview:
+## 🚀💡 Challenge Overview:
 
 - **Objective:** This repository is designed to push your limits and elevate your DSA proficiency through 300 meticulously selected challenges.
   
