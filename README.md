@@ -52,7 +52,7 @@ git clone https://github.com/vishalyadav0987/DSA-27-03-2024.git
 
 A heartfelt appreciation to all adventurers who contribute to the enrichment of this repository, making it a haven for DSA enthusiasts seeking to conquer new heights.
 
-## Join the Adventure:
+## Join the Adventure:🌟💥💥
 
 Are you ready to embark on this epic DSA adventure? Dive into the challenges, overcome obstacles, and emerge as a DSA champion!
 
