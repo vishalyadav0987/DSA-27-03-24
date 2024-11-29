@@ -14,6 +14,7 @@ vector<int> nextSmallerElement(vector<int> arr, int n)
             s.pop();
         }
         ans[i] = s.top();
+        s.push(i);
     }
 
     return ans;
